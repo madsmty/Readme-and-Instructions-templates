@@ -15,7 +15,7 @@ Description of the project, pretty similar to the Readme.md content
 
 #### List of required software and instructions to install each.
 
-### Completion guida
+### Completion guide
 
 #### Instructions
 #### Example
