@@ -1,4 +1,4 @@
-viton# Project Name
+# Project Name
 
 
 
@@ -6,12 +6,12 @@ viton# Project Name
 
 ## Environment Prerequisites
 
-Required software, libraries, runtimes, databases.
+Required software, libraries, runtimes, and/or databases.
 
 ## Build Instructions
 
-How to fork the repository
-Run local project
+* How to fork the repository
+* Run local project
 
 ## Instructions
 
@@ -22,14 +22,14 @@ Step by step instructions of the tasks expected to be performed by the mentee.
 ## Technical requirements
 
 Example:
-Use x version of NodeJS
-Use Typescript
-Use certain libraries or frameworks
+* Use x version of NodeJS
+* Use Typescript
+* Use certain libraries or frameworks
 
 ### Example [Optional]
 
-Code example of some similar functionality without giving away the excercise solution
-Links to files in the repo that show similar functionalities
+* Code example of some similar functionality without giving away the excercise solution
+* Links to files in the repo that show similar functionalities
 
 ## Testing and Validation Requisites
 
