@@ -6,14 +6,29 @@ viton# Project Name
 
 ## Environment Prerequisites
 
+Required software, libraries, runtimes, databases.
+
 ## Build Instructions
 
+How to fork the repository
+Run local project
 
-## Tasks / Instuctions
+## Instructions
+
+### Functional requirements
+Step by step instructions of the tasks expected to be performed by the mentee.
+### Business Rules
+
+## Technical requirements
+
+Example:
+Use x version of NodeJS
+Use Typescript
+Use certain libraries or frameworks
 
 ### Example [Optional]
 
-## Testing and Validation requisites
+## Testing and Validation Requisites
 
 ## Acceptance Criteria
 
