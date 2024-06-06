@@ -32,8 +32,15 @@ Example:
 * Links to files in the repo that show similar functionalities
 
 ## Testing and Validation Requisites
-
+* List of tests that need to be run
+* Test cases
+* Make sure that all tasks in the instructions section are tested and validated
+  
 ## Acceptance Criteria
+
+* Expected Documentation
+* Screenshots of tests being passed 
+* Coverage
 
 ## Helpful Resources
 
