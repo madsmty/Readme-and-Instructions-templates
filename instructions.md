@@ -28,6 +28,9 @@ Use certain libraries or frameworks
 
 ### Example [Optional]
 
+Code example of some similar functionality without giving away the excercise solution
+Links to files in the repo that show similar functionalities
+
 ## Testing and Validation Requisites
 
 ## Acceptance Criteria
