@@ -2,8 +2,6 @@
 
 
 
-# Object Oriented Introduction Lab II
-
 ## Overview
 
 ## Prerequisites
