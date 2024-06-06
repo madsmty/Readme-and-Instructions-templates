@@ -19,7 +19,7 @@
 
 ## Acceptance Criteria
 
-## Helpful ResourcesO  **AComodar las ligas con los puntos de abajo
+## Helpful Resources
 
 [Optional]
 ### Official Language/Framework/Library Documentation 
