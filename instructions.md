@@ -1,53 +1,30 @@
-# Project Name
 
 
 
-## Overview
+# Object Oriented Introduction Lab II
 
-## Environment Prerequisites
+# 1. Overview
 
-Required software, libraries, runtimes, and/or databases.
+# 2. Prerequisites
 
-## Build Instructions
+# 3. Build Instructions
 
-* How to fork the repository
-* Run local project
+# 4. Tasks / Instructions
 
-## Instructions
+## Example [Optional]
 
-### Functional requirements
-Step by step instructions of the tasks expected to be performed by the mentee.
-### Business Rules
+# 5. Testing and Validation requisites
 
-## Technical requirements
 
-Example:
-* Use x version of NodeJS
-* Use Typescript
-* Use certain libraries or frameworks
+# 6. Acceptance Criteria
+# Helpful Resources
 
-### Example [Optional]
+## Official Language/Framework/Library Documentation 
 
-* Code example of some similar functionality without giving away the excercise solution
-* Links to files in the repo that show similar functionalities
+## Main concepts (Databases, Object Oriented Programming, Classes, Polymorphism, etc)
+## Blog articles, samples
+## Public repositories
+## Video tutorials
 
-## Testing and Validation Requisites
-* List of tests that need to be run
-* Test cases
-* Make sure that all tasks in the instructions section are tested and validated
-  
-## Acceptance Criteria
 
-* Expected Documentation
-* Screenshots of tests being passed 
-* Coverage
-
-## Helpful Resources
-
-[Optional]
-### Official Language/Framework/Library Documentation 
-### Main concepts (Databases, Object Oriented Programming, Classes, Polymorphism, etc)
-### Blog articles, samples
-### Public repositories
-### Video tutorials
  
