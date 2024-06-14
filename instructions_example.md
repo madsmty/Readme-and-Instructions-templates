@@ -39,7 +39,9 @@ The public side of the API it should allow users to view pets available for adop
 
 # 4. Instructions
 
-## [Functional Requirements](./functional_requirements_example.md)
+## 4.1 Functional Requirements
+In this [link}(./ functional_requirements_example.md) you will find the definition of all expected CRUD endpoints.
+
 ## [Business Rules](./business_rules_example.md)
 
 ## [Technical Requirements](./technical_requirements_example.md)
