@@ -10,6 +10,7 @@ The public side of the API it should allow users to view pets available for adop
 
 # 2. Environment Prerequisites
 
+## Windows
 1. Install NVM.
 	[Windows](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
 2. Install Node JS (LTS) and set it as default
@@ -17,6 +18,11 @@ The public side of the API it should allow users to view pets available for adop
     nvm install 20.11.0
     nvm alias default 20.11.0
     ```
+## MacOs
+
+## Linux
+
+
 # 3. Build Instructions
 
 1. Install yarn globally for dependency management.
