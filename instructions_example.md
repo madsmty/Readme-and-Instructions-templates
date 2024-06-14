@@ -34,7 +34,7 @@ The public side of the API it should allow users to view pets available for adop
 # 4. Instructions
 
 ## [Functional Requirements](./functional_requirements_example.md)
-## [Business Rules](./specifications_example.md)
+## [Business Rules](./business_rules_example.md)
 
 ## [Technical Requirements](./technical_requirements_example.md)
 
