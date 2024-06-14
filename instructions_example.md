@@ -42,7 +42,7 @@ The public side of the API it should allow users to view pets available for adop
 
 # 6. Acceptance Criteria
 
-## [Evaluation criteria](./evaluation_example.md)
+## [Evaluation criteria](./evaluation_criteria_example.md)
 ## [Expected documentation and deliverables](./documentation_example.md)
 
 # 7. Resources
