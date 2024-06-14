@@ -40,11 +40,19 @@ The public side of the API it should allow users to view pets available for adop
 # 4. Instructions
 
 ## 4.1 Functional Requirements
-In this [link}(./ functional_requirements_example.md) you will find the definition of all expected CRUD endpoints.
+In this [link](./ functional_requirements_example.md) you will find the definition of all expected CRUD endpoints.
 
-## [Business Rules](./business_rules_example.md)
+## 4.2 Business Rules
 
-## [Technical Requirements](./technical_requirements_example.md)
+In this [link](./business_rules_example.md) you will find the ....
+
+## 4.3 Technical Requirements
+
+* Use TypeScript for server-side development (don't use any).
+* Implement Express.js to create the RESTful API.
+* Use SQLite or another suitable database to store pet and user data.
+* Apply proper error handling and validation throughout the application.
+* Include unit tests for critical features and components using Jest.
 
 # 5. Testing and Validation Requisites - TBD
 
