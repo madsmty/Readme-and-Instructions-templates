@@ -45,7 +45,7 @@ The public side of the API it should allow users to view pets available for adop
 ## [Evaluation criteria](./evaluation.md)
 ## [Expected documentation and deliverables](./documentation.md)
 
-# 6. Resources
+# 7. Resources
 
 * Boilerplate repositories where this exercise was based
     * https://github.com/mwolfhoffman/node-jwt-sqlite-typescript-starter
