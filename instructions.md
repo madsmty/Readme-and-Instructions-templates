@@ -3,14 +3,13 @@
 # 1. Overview
 
 # 2. Environment Prerequisites
-    ```
+
 # 3. Build Instructions
 
 # 4. Instructions
 
 ## Functional Requirements
 ## Business Rules
-
 ## Technical Requirements
 
 # 5. Testing and Validation Requisites
@@ -20,10 +19,9 @@
 ## Evaluation criteria
 ## Expected documentation and deliverables
 
-# 6. Resources
+# 7. Resources
 
 ## Official Language/Framework/Library Documentation 
-
 ## Main concepts (Databases, Object Oriented Programming, Classes, Polymorphism, etc)
 ## Blog articles, samples
 ## Public repositories
