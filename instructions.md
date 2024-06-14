@@ -1,23 +1,26 @@
-
-
-
-# Object Oriented Introduction Lab II
+# Title
 
 # 1. Overview
 
-# 2. Prerequisites
-
+# 2. Environment Prerequisites
+    ```
 # 3. Build Instructions
 
-# 4. Tasks / Instructions
+# 4. Instructions
 
-## Example [Optional]
+## Functional Requirements
+## Business Rules
 
-# 5. Testing and Validation requisites
+## Technical Requirements
 
+# 5. Testing and Validation Requisites
 
 # 6. Acceptance Criteria
-# Helpful Resources
+
+## Evaluation criteria
+## Expected documentation and deliverables
+
+# 6. Resources
 
 ## Official Language/Framework/Library Documentation 
 
@@ -25,6 +28,3 @@
 ## Blog articles, samples
 ## Public repositories
 ## Video tutorials
-
-
- 
