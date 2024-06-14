@@ -33,17 +33,17 @@ The public side of the API it should allow users to view pets available for adop
 
 # 4. Instructions
 
-## [Functional Requirements](./functional_requirements.md)
-## [Business Rules](./specifications.md)
+## [Functional Requirements](./functional_requirements_example.md)
+## [Business Rules](./specifications_example.md)
 
-## [Technical Requirements](./technical_requirements.md)
+## [Technical Requirements](./technical_requirements_example.md)
 
 # 5. Testing and Validation Requisites - TBD
 
 # 6. Acceptance Criteria
 
-## [Evaluation criteria](./evaluation.md)
-## [Expected documentation and deliverables](./documentation.md)
+## [Evaluation criteria](./evaluation_example.md)
+## [Expected documentation and deliverables](./documentation_example.md)
 
 # 7. Resources
 
