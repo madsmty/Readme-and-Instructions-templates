@@ -54,18 +54,28 @@ In this [link](./business_rules_example.md) you will find the ....
 * Apply proper error handling and validation throughout the application.
 * Include unit tests for critical features and components using Jest.
 
-# 5. Testing and Validation Requisites - TBD
+# 5. Testing and Validation Requisites
+
+(Incluir pantallas)
 
 # 6. Acceptance Criteria
 
-## [Evaluation criteria](./evaluation_criteria_example.md)
+## 6.1 Evaluation criteria
 
 * **Functionality:** Does the application meet the specified requirements?
 * **Code quality:** Is the code well structured, readable, and meets best practices?
 * **Tests:** Are there unit tests for critical components and do they all pass 100%?
 * **Documentation:** Is the project well documented and does it provide clear instructions for setup and use?
-* 
-## [Expected documentation and deliverables](./documentation_example.md)
+  
+## 6.2 Expected documentation and deliverables
+
+* Include clear instructions for API endpoints and data structures. (Especificar a que se refiere... swager?)
+* Document any additional features or functionality implemented.
+
+(Elaborar un poco mas las instrucciones aclarar que sea la rama main, del fork.) 
+* Submit your project as a GitHub repository to your tutor, specify the appropriate branch.
+* Include a clear README.md (especificar que es uno nuevo no el del code challenge, o especificar que secciones va a actualizar y que secciones del README original se mantienen. Definir que debe de contener el README.) file that explains your project, its features, and how to run it.
+* Include Postman collection for easy review. (especificar ambos pantallazos y archivo. Detallar cada entregable)
 
 # 7. Resources
 
