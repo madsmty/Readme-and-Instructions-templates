@@ -8,16 +8,16 @@
 
 # 4. Instructions
 
-## Functional Requirements
-## Business Rules
-## Technical Requirements
+## 4.1 Functional Requirements
+## 4.2 Business Rules
+## 4.3 Technical Requirements
 
 # 5. Testing and Validation Requisites
 
 # 6. Acceptance Criteria
 
-## Evaluation criteria
-## Expected documentation and deliverables
+## 6.1 Evaluation criteria
+## 6.2 Expected documentation and deliverables
 
 # 7. Resources
 
